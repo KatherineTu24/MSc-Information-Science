@@ -1,0 +1,154 @@
+piece_id,question_type,claude_answer,gemini_answer,gpt_answer,majority,all_agree
+01-1,key_signature,f minor,g minor,f minor,f minor,False
+01-2,key_signature,bb major,c minor,d minor,c minor,False
+01-3,key_signature,f minor,c minor,f minor,f minor,False
+01-4,key_signature,f minor,bb major,f minor,f minor,False
+02-1,key_signature,e major,d major,a major,a major,False
+02-2,key_signature,d major,eb major,b minor,b minor,False
+02-3,key_signature,c# minor,a major,f# minor,c# minor,False
+03-1,key_signature,c major,c major,c major,c major,True
+03-2,key_signature,e major,e major,e major,e major,True
+03-3,key_signature,a minor,c major,d minor,d minor,False
+03-4,key_signature,c major,g major,c major,c major,False
+05-1,key_signature,c minor,bb major,c minor,c minor,False
+05-2,key_signature,ab major,a minor,ab major,ab major,False
+05-3,key_signature,c minor,c minor,c minor,c minor,True
+06-1,key_signature,bb major,c major,f major,f major,False
+06-2,key_signature,f minor,bb major,f minor,f minor,False
+06-3,key_signature,bb major,bb major,f major,bb major,False
+07-1,key_signature,d major,a major,b minor,b minor,False
+07-2,key_signature,d minor,d major,d minor,d minor,False
+07-3,key_signature,a major,e major,d major,d major,False
+07-4,key_signature,d major,d major,d major,d major,True
+08-1,key_signature,c minor,c minor,c minor,c minor,True
+08-2,key_signature,ab major,eb major,ab major,ab major,False
+08-3,key_signature,c minor,g minor,c minor,c minor,False
+09-1,key_signature,e major,e major,e major,e major,True
+09-2,key_signature,e minor,c major,e minor,e minor,False
+09-3,key_signature,e major,e major,e major,e major,True
+10-1,key_signature,g major,a major,g major,g major,False
+10-2,key_signature,c major,c major,f major,c major,False
+10-3,key_signature,g major,d major,g major,g major,False
+16-1,key_signature,g major,g major,g major,g major,True
+16-2,key_signature,c major,c major,g major,c major,False
+16-3,key_signature,g major,a major,g major,g major,False
+17-1,key_signature,d minor,c major,d minor,d minor,False
+17-2,key_signature,bb major,c major,bb major,bb major,False
+17-3,key_signature,bb major,c major,d minor,d minor,False
+18-1,key_signature,eb major,ab major,eb major,eb major,False
+18-2,key_signature,ab major,bb major,f minor,ab major,False
+18-3,key_signature,eb major,c minor,eb major,eb major,False
+18-4,key_signature,eb major,g minor,eb major,eb major,False
+19-1,key_signature,g minor,g minor,g minor,g minor,True
+19-2,key_signature,g major,c major,g major,g major,False
+20-1,key_signature,g major,c major,g major,g major,False
+20-2,key_signature,g major,g major,g major,g major,True
+21-1,key_signature,c major,c major,c major,c major,True
+21-2,key_signature,f major,c major,f major,f major,False
+21-3,key_signature,c major,c major,c major,c major,True
+23-1,key_signature,f minor,c minor,f minor,f minor,False
+23-2,key_signature,f minor,bb major,db major,db major,False
+23-3,key_signature,f minor,eb major,f minor,f minor,False
+24-1,key_signature,f# major,b major,b major,b major,False
+24-2,key_signature,a minor,f# major,f# major,f# major,False
+26-1,key_signature,eb major,eb major,eb major,eb major,True
+26-2,key_signature,f minor,c minor,c minor,c minor,False
+26-3,key_signature,eb major,bb major,eb major,eb major,False
+30-1,key_signature,e major,e major,e major,e major,True
+30-2,key_signature,e minor,c major,e minor,e minor,False
+30-3,key_signature,e major,e major,e major,e major,True
+31-1,key_signature,ab major,c minor,ab major,ab major,False
+31-2,key_signature,f minor,eb major,f minor,f minor,False
+31-3,key_signature,f minor,c minor,bb minor,f minor,False
+32-1,key_signature,c minor,bb major,c minor,c minor,False
+32-2,key_signature,c major,c major,c major,c major,True
+01-1,time_signature,2/2,4/4,2/2,2/2,False
+01-2,time_signature,3/4,2/4,3/4,3/4,False
+01-3,time_signature,3/4,3/4,3/4,3/4,True
+01-4,time_signature,2/2,4/4,4/4,4/4,False
+02-1,time_signature,2/4,2/4,2/4,2/4,True
+02-2,time_signature,3/4,2/4,3/4,3/4,False
+02-3,time_signature,3/4,2/4,3/4,3/4,False
+03-1,time_signature,4/4,4/4,4/4,4/4,True
+03-2,time_signature,2/4,2/4,2/4,2/4,True
+03-3,time_signature,3/4,3/4,3/4,3/4,True
+03-4,time_signature,6/8,6/8,6/8,6/8,True
+04-1,time_signature,6/8,6/8,6/8,6/8,True
+04-2,time_signature,3/4,2/4,3/4,3/4,False
+04-3,time_signature,3/4,3/8,3/4,3/4,False
+04-4,time_signature,2/4,2/4,2/4,2/4,True
+05-1,time_signature,3/4,4/8,3/4,3/4,False
+05-2,time_signature,2/4,2/4,2/2,2/4,False
+05-3,time_signature,4/4,2/2,4/4,4/4,False
+06-1,time_signature,2/4,2/4,2/4,2/4,True
+06-2,time_signature,3/4,3/4,3/4,3/4,True
+06-3,time_signature,2/4,2/4,2/4,2/4,True
+07-1,time_signature,4/4,4/4,4/4,4/4,True
+07-2,time_signature,6/8,6/8,6/8,6/8,True
+07-3,time_signature,3/2,4/4,3/4,3/2,False
+07-4,time_signature,4/4,2/4,4/4,4/4,False
+08-1,time_signature,4/4,2/2,4/4,4/4,False
+08-2,time_signature,2/4,2/2,2/4,2/4,False
+08-3,time_signature,2/2,2/2,4/4,2/2,False
+09-1,time_signature,4/4,3/8,4/4,4/4,False
+09-2,time_signature,3/4,2/4,3/4,3/4,False
+09-3,time_signature,2/2,2/4,2/2,2/2,False
+10-1,time_signature,2/4,2/4,2/4,2/4,True
+10-2,time_signature,4/4,2/4,2/4,2/4,False
+10-3,time_signature,3/8,3/8,3/8,3/8,True
+11-1,time_signature,4/4,4/4,4/4,4/4,True
+11-2,time_signature,9/8,2/4,9/8,9/8,False
+11-3,time_signature,3/2,3/4,3/4,3/4,False
+11-4,time_signature,2/4,2/4,2/4,2/4,True
+12-1,time_signature,3/8,2/4,3/8,3/8,False
+12-2,time_signature,3/4,2/4,3/4,3/4,False
+12-3,time_signature,4/4,2/4,4/4,4/4,False
+12-4,time_signature,2/4,2/4,2/4,2/4,True
+13-1,time_signature,4/4,2/4,2/4,2/4,False
+13-2,time_signature,3/4,2/4,4/4,2/4,False
+13-3,time_signature,3/4,2/4,3/4,3/4,False
+13-4,time_signature,2/2,2/4,2/4,2/4,False
+14-1,time_signature,2/2,4/4,2/2,2/2,False
+14-2,time_signature,3/4,2/4,3/4,3/4,False
+14-3,time_signature,4/4,4/4,4/4,4/4,True
+15-1,time_signature,3/4,2/4,3/4,3/4,False
+15-2,time_signature,2/4,2/4,2/4,2/4,True
+15-3,time_signature,3/4,2/4,3/4,3/4,False
+15-4,time_signature,6/8,6/8,6/8,6/8,True
+16-1,time_signature,2/4,2/4,2/4,2/4,True
+16-2,time_signature,9/8,2/4,8/8,8/8,False
+16-3,time_signature,2/2,2/4,4/4,2/2,False
+17-1,time_signature,4/4,2/4,4/4,4/4,False
+17-2,time_signature,3/4,2/8,3/4,3/4,False
+17-3,time_signature,3/8,2/4,3/8,3/8,False
+18-1,time_signature,3/4,4/4,3/4,3/4,False
+18-2,time_signature,2/4,3/8,2/4,2/4,False
+18-3,time_signature,3/4,3/4,3/4,3/4,True
+18-4,time_signature,6/8,8/8,6/8,6/8,False
+19-1,time_signature,2/4,4/4,2/4,2/4,False
+19-2,time_signature,6/8,6/8,6/8,6/8,True
+20-1,time_signature,2/2,2/4,4/4,2/2,False
+20-2,time_signature,3/4,3/4,3/4,3/4,True
+21-1,time_signature,4/4,4/4,4/4,4/4,True
+21-2,time_signature,6/8,6/8,6/8,6/8,True
+21-3,time_signature,2/4,2/4,2/4,2/4,True
+23-1,time_signature,12/8,12/8,12/8,12/8,True
+23-2,time_signature,2/4,4/4,2/2,2/2,False
+23-3,time_signature,2/4,4/4,2/4,2/4,False
+24-1,time_signature,2/4,2/4,2/4,2/4,True
+24-2,time_signature,2/4,2/4,2/4,2/4,True
+26-1,time_signature,2/4,2/4,2/4,2/4,True
+26-2,time_signature,2/4,2/4,2/4,2/4,True
+26-3,time_signature,6/8,2/4,6/8,6/8,False
+29-1,time_signature,2/2,2/2,4/4,2/2,False
+29-2,time_signature,3/4,2/4,3/4,3/4,False
+29-3,time_signature,6/8,6/8,6/8,6/8,True
+29-4,time_signature,12/32,2/4,4/4,12/32,False
+30-1,time_signature,2/4,6/8,2/4,2/4,False
+30-2,time_signature,6/8,2/4,6/8,6/8,False
+30-3,time_signature,3/4,9/16,3/4,3/4,False
+31-1,time_signature,3/4,9/8,3/4,3/4,False
+31-2,time_signature,2/4,2/4,2/4,2/4,True
+31-3,time_signature,4/4,3/8,4/4,4/4,False
+32-1,time_signature,4/4,4/4,4/4,4/4,True
+32-2,time_signature,9/16,9/16,9/16,9/16,True

@@ -1,0 +1,19 @@
+srq,format,task,pair,model_a,model_b,n_shared,kappa,interpretation
+SRQ1,pdf,key_signature,Claude vs Gemini,claude-sonnet-4-6,gemini-2.5-flash,63,0.3818,Fair
+SRQ1,pdf,key_signature,Claude vs GPT,claude-sonnet-4-6,gpt-5.4,63,0.7768,Substantial
+SRQ1,pdf,key_signature,Gemini vs GPT,gemini-2.5-flash,gpt-5.4,63,0.3671,Fair
+SRQ1,pdf,time_signature,Claude vs Gemini,claude-sonnet-4-6,gemini-2.5-flash,90,0.0916,Slight
+SRQ1,pdf,time_signature,Claude vs GPT,claude-sonnet-4-6,gpt-5.4,90,0.8309,Almost perfect
+SRQ1,pdf,time_signature,Gemini vs GPT,gemini-2.5-flash,gpt-5.4,90,0.0857,Slight
+SRQ3,pdf,key_signature,Claude vs Gemini,claude-sonnet-4-6,gemini-2.5-flash,63,0.3186,Fair
+SRQ3,pdf,key_signature,Claude vs GPT,claude-sonnet-4-6,gpt-5.4,63,0.7768,Substantial
+SRQ3,pdf,key_signature,Gemini vs GPT,gemini-2.5-flash,gpt-5.4,63,0.3359,Fair
+SRQ3,pdf,time_signature,Claude vs Gemini,claude-sonnet-4-6,gemini-2.5-flash,90,0.0995,Slight
+SRQ3,pdf,time_signature,Claude vs GPT,claude-sonnet-4-6,gpt-5.4,90,0.8033,Almost perfect
+SRQ3,pdf,time_signature,Gemini vs GPT,gemini-2.5-flash,gpt-5.4,90,0.0816,Slight
+SRQ3,png,key_signature,Claude vs Gemini,claude-sonnet-4-6,gemini-2.5-flash,63,0.2522,Fair
+SRQ3,png,key_signature,Claude vs GPT,claude-sonnet-4-6,gpt-5.4,63,0.6069,Substantial
+SRQ3,png,key_signature,Gemini vs GPT,gemini-2.5-flash,gpt-5.4,63,0.2097,Fair
+SRQ3,png,time_signature,Claude vs Gemini,claude-sonnet-4-6,gemini-2.5-flash,90,0.0563,Slight
+SRQ3,png,time_signature,Claude vs GPT,claude-sonnet-4-6,gpt-5.4,90,0.818,Almost perfect
+SRQ3,png,time_signature,Gemini vs GPT,gemini-2.5-flash,gpt-5.4,90,0.0874,Slight

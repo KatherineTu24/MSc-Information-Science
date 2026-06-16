@@ -1,0 +1,9 @@
+piece_id,question_type,input_type,ground_truth,claude_answer,gemini_answer,gpt_answer
+01-4,time_signature,png,2/2,4/4,4/4,4/4
+10-2,key_signature,pdf,C,g major,c minor,g major
+13-1,time_signature,pdf,2/2,4/4,4/4,2/4
+13-1,time_signature,png,2/2,4/4,4/4,4/4
+23-2,key_signature,png,Db,a♭ minor,ab major,bflat minor
+29-4,time_signature,pdf,4/4,2/4,2/2,2/4
+31-2,key_signature,png,f,a♭ minor,aflat major,bflat minor
+31-3,key_signature,pdf,Ab,aflat minor,c minor,a♭ minor

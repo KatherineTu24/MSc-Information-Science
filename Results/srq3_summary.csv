@@ -1,0 +1,13 @@
+model,format,task,n,n_errors,accuracy,precision,recall,f1
+claude-sonnet-4-6,pdf,key_signature,63,0,0.7937,0.7218,0.6929,0.6806
+claude-sonnet-4-6,pdf,time_signature,90,0,0.9222,0.8688,0.8449,0.8507
+claude-sonnet-4-6,png,key_signature,63,0,0.8889,0.7847,0.7675,0.7499
+claude-sonnet-4-6,png,time_signature,90,0,0.8556,0.8302,0.7653,0.7712
+gemini-2.5-flash,pdf,key_signature,63,0,0.4127,0.3752,0.3468,0.3002
+gemini-2.5-flash,pdf,time_signature,90,0,0.2111,0.2228,0.1334,0.1075
+gemini-2.5-flash,png,key_signature,63,0,0.3333,0.1853,0.205,0.1719
+gemini-2.5-flash,png,time_signature,90,0,0.2111,0.1339,0.12,0.0902
+gpt-5.4,pdf,key_signature,63,0,0.873,0.8423,0.8466,0.8125
+gpt-5.4,pdf,time_signature,90,0,0.8778,0.9121,0.8526,0.8679
+gpt-5.4,png,key_signature,63,0,0.6825,0.6093,0.6103,0.5886
+gpt-5.4,png,time_signature,90,0,0.9444,0.9738,0.9444,0.949

@@ -1,0 +1,10 @@
+srq,model,format,n,strict_acc,n_enharmonic,relaxed_acc
+SRQ1,claude-sonnet-4-6,pdf,63,0.8095,0,0.8095
+SRQ1,gemini-2.5-flash,pdf,63,0.4603,0,0.4603
+SRQ1,gpt-5.4,pdf,63,0.8571,0,0.8571
+SRQ3,claude-sonnet-4-6,pdf,63,0.7937,0,0.7937
+SRQ3,claude-sonnet-4-6,png,63,0.8889,0,0.8889
+SRQ3,gemini-2.5-flash,pdf,63,0.4127,0,0.4127
+SRQ3,gemini-2.5-flash,png,63,0.3333,0,0.3333
+SRQ3,gpt-5.4,pdf,63,0.873,0,0.873
+SRQ3,gpt-5.4,png,63,0.6825,0,0.6825

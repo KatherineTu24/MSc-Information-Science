@@ -1,0 +1,4 @@
+model,n_count_correct,type_given_count_correct_pct,n_type_correct,map_given_type_correct_pct,map_unconditional_pct
+Claude,1,100.0,12,91.7,91.7
+Gemini,1,100.0,29,96.6,90.5
+GPT,7,100.0,8,37.5,54.5

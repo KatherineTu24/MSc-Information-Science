@@ -1,0 +1,26 @@
+srq,task,class,accuracy_mean
+srq1,key_signature,db major,0.3333
+srq1,key_signature,d major,0.5
+srq1,key_signature,f major,0.5
+srq1,key_signature,ab major,0.5333
+srq1,key_signature,f minor,0.619
+srq1,key_signature,c major,0.625
+srq1,key_signature,a major,0.6667
+srq1,key_signature,g minor,0.6667
+srq1,key_signature,d minor,0.7778
+srq1,key_signature,eb major,0.7778
+srq1,key_signature,g major,0.8095
+srq1,key_signature,e minor,0.8333
+srq1,key_signature,e major,0.8667
+srq1,key_signature,c minor,0.9333
+srq1,key_signature,bb major,1.0
+srq1,key_signature,f# major,1.0
+srq1,time_signature,2/2,0.4333
+srq1,time_signature,9/8,0.5
+srq1,time_signature,12/8,0.6667
+srq1,time_signature,2/4,0.6667
+srq1,time_signature,3/8,0.6667
+srq1,time_signature,9/16,0.6667
+srq1,time_signature,3/4,0.6933
+srq1,time_signature,6/8,0.8
+srq1,time_signature,4/4,0.8095

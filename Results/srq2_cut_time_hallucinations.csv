@@ -1,0 +1,5 @@
+piece_id,model,ground_truth,parsed_answer,reasoning_category
+13-1,claude-sonnet-4-6,2/2,4/4,B
+13-4,claude-sonnet-4-6,2/4,2/2,B
+29-4,claude-sonnet-4-6,4/4,12/32,B
+05-03,gemini-2.5-flash,4/4,2/2,B

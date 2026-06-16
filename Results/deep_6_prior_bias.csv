@@ -1,0 +1,19 @@
+srq,model,task,n,chi2,p_value,significant,top_predicted,top_gt
+SRQ1,claude-sonnet-4-6,key_signature,63,2.2393,0.8964,ns,g major,c major
+SRQ1,gemini-2.5-flash,key_signature,63,9.2316,0.161,ns,c major,c major
+SRQ1,gpt-5.4,key_signature,63,4.2196,0.647,ns,g major,c major
+SRQ1,claude-sonnet-4-6,time_signature,90,1.1381,0.8882,ns,2/4,3/4
+SRQ1,gemini-2.5-flash,time_signature,90,122.1985,0.0,***,4/4,3/4
+SRQ1,gpt-5.4,time_signature,90,2.3348,0.6744,ns,2/4,3/4
+SRQ3 PDF,claude-sonnet-4-6,key_signature,63,3.7143,0.7153,ns,g major,c major
+SRQ3 PDF,gemini-2.5-flash,key_signature,63,16.2609,0.0124,*,c major,c major
+SRQ3 PDF,gpt-5.4,key_signature,63,3.055,0.8019,ns,g major,c major
+SRQ3 PDF,claude-sonnet-4-6,time_signature,90,2.5887,0.6288,ns,2/4,3/4
+SRQ3 PDF,gemini-2.5-flash,time_signature,90,140.9395,0.0,***,4/4,3/4
+SRQ3 PDF,gpt-5.4,time_signature,90,2.6936,0.6103,ns,2/4,3/4
+SRQ3 PNG,claude-sonnet-4-6,key_signature,63,0.508,0.9977,ns,g major,c major
+SRQ3 PNG,gemini-2.5-flash,key_signature,63,20.079,0.0027,**,c minor,c major
+SRQ3 PNG,gpt-5.4,key_signature,63,9.8908,0.1293,ns,c minor,c major
+SRQ3 PNG,claude-sonnet-4-6,time_signature,90,7.1215,0.1296,ns,3/4,3/4
+SRQ3 PNG,gemini-2.5-flash,time_signature,90,101.0713,0.0,***,4/4,3/4
+SRQ3 PNG,gpt-5.4,time_signature,90,3.1607,0.5313,ns,2/4,3/4

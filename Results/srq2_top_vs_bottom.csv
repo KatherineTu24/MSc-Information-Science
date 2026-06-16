@@ -1,0 +1,4 @@
+model,n,top_wrong_pct,bot_wrong_pct,both_wrong_pct,only_top_wrong_pct,only_bot_wrong_pct
+Claude,5,40.0,100.0,40.0,0.0,60.0
+Gemini,47,85.1,55.3,40.4,44.7,14.9
+GPT,10,70.0,80.0,50.0,20.0,30.0

@@ -1,0 +1,28 @@
+task,pair,truth,pred_a,pred_b,n,movements,truth_accidentals,pred_a_accidentals,pred_b_accidentals,delta_a,delta_b,pattern
+key_signature,Claude vs Gemini,ab major,ab minor,c minor,1,31-3,-4.0,,-3.0,,1.0,unmappable
+key_signature,Claude vs Gemini,c major,c minor,a major,1,03-3,0.0,-3.0,3.0,-3.0,3.0,unstructured
+key_signature,Claude vs Gemini,c major,g major,f major,1,10-2,0.0,1.0,-1.0,1.0,-1.0,adjacent-key (both)
+key_signature,Claude vs Gemini,d major,a major,a major,1,07-3,2.0,3.0,3.0,1.0,1.0,exact match
+key_signature,Claude vs Gemini,d major,a major,e major,1,07-4,2.0,3.0,4.0,1.0,2.0,unstructured
+key_signature,Claude vs Gemini,db major,ab major,ab major,1,23-2,-5.0,-4.0,-4.0,1.0,1.0,exact match
+key_signature,Claude vs Gemini,f major,bb major,c major,1,06-3,-1.0,-2.0,0.0,-1.0,1.0,adjacent-key (both)
+key_signature,Claude vs Gemini,f major,bb major,g major,1,06-1,-1.0,-2.0,1.0,-1.0,2.0,unstructured
+key_signature,Claude vs GPT,c major,g major,g major,2,10-2; 16-2,0.0,1.0,1.0,1.0,1.0,exact match
+key_signature,Claude vs GPT,ab major,ab minor,ab minor,1,31-3,-4.0,,,,,exact match
+key_signature,Claude vs GPT,c major,c minor,c minor,1,03-3,0.0,-3.0,-3.0,-3.0,-3.0,exact match
+key_signature,Gemini vs GPT,ab major,c minor,ab minor,1,31-3,-4.0,-3.0,,1.0,,unmappable
+key_signature,Gemini vs GPT,ab major,g minor,eb major,1,18-2,-4.0,-2.0,-3.0,2.0,1.0,unstructured
+key_signature,Gemini vs GPT,c major,a major,c minor,1,03-3,0.0,3.0,-3.0,3.0,-3.0,unstructured
+key_signature,Gemini vs GPT,c major,f major,g major,1,10-2,0.0,-1.0,1.0,-1.0,1.0,adjacent-key (both)
+key_signature,Gemini vs GPT,f minor,bb major,eb major,1,01-3,-4.0,-2.0,-3.0,2.0,1.0,unstructured
+key_signature,Gemini vs GPT,f minor,d major,bb minor,1,06-2,-4.0,2.0,-5.0,6.0,-1.0,unstructured
+time_signature,Claude vs Gemini,2/2,4/4,4/4,2,13-1; 29-1,,,,,,
+time_signature,Claude vs Gemini,3/4,2/4,9/8,1,30-3,,,,,,
+time_signature,Claude vs GPT,2/2,2/4,2/4,1,10-2,,,,,,
+time_signature,Claude vs GPT,2/2,4/4,2/4,1,13-1,,,,,,
+time_signature,Claude vs GPT,4/4,3/4,6/8,1,29-4,,,,,,
+time_signature,Gemini vs GPT,2/2,4/4,2/4,4,08-3; 13-1; 16-3; 20-1,,,,,,
+time_signature,Gemini vs GPT,2/2,4/4,4/4,1,01-4,,,,,,
+time_signature,Gemini vs GPT,2/4,4/4,2/2,1,05-2,,,,,,
+time_signature,Gemini vs GPT,2/4,4/4,4/4,1,23-3,,,,,,
+time_signature,Gemini vs GPT,9/8,3/4,6/8,1,16-2,,,,,,

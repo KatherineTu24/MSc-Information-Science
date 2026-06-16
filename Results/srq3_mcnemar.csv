@@ -1,0 +1,7 @@
+model,task,n_shared,acc_pdf,acc_png,delta,both_correct,pdf_only,png_only,both_wrong,p_value,significant
+claude-sonnet-4-6,key_signature,63,0.7937,0.8889,0.0952,49,1,7,6,0.0703,ns
+claude-sonnet-4-6,time_signature,90,0.9222,0.8556,-0.0667,75,8,2,5,0.1094,ns
+gemini-2.5-flash,key_signature,63,0.4127,0.3333,-0.0794,12,14,9,28,0.4049,ns
+gemini-2.5-flash,time_signature,90,0.2111,0.2111,0.0,9,10,10,61,1.0,ns
+gpt-5.4,key_signature,63,0.873,0.6825,-0.1905,42,13,1,7,0.0018,**
+gpt-5.4,time_signature,90,0.8778,0.9444,0.0667,79,0,6,5,0.0312,*

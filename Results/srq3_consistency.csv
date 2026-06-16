@@ -1,0 +1,7 @@
+model,task,n_shared,n_consistent,consistency_rate
+claude-sonnet-4-6,key_signature,63,55,0.873
+claude-sonnet-4-6,time_signature,90,79,0.8778
+gemini-2.5-flash,key_signature,63,19,0.3016
+gemini-2.5-flash,time_signature,90,28,0.3111
+gpt-5.4,key_signature,63,46,0.7302
+gpt-5.4,time_signature,90,83,0.9222
