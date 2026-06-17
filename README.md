@@ -100,3 +100,4 @@ No license. All rights reserved by the author. Code is published for academic tr
 ## Contact
 
 Katherine (ZhaoYu) Tu — MSc Information Studies, University of Amsterdam.
+Contact email: katherine.tu@student.uva.nl
