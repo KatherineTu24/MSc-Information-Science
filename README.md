@@ -57,6 +57,14 @@ cd MSc-Information-Science
 pip install -r requirements.txt
 ```
 
+If you want byte-identical versions of every package (the exact environment used to produce the committed results), use the pinned file instead:
+
+```bash
+pip install -r requirements_frozen.txt
+```
+
+`requirements.txt` lists only the top-level dependencies and lets pip resolve transitive versions, which is friendlier for forward compatibility. `requirements_frozen.txt` is a `pip freeze` snapshot of the full dependency tree at the time the thesis results were produced.
+
 **2. Configure API keys:**
 ```bash
 cp .env.example .env
