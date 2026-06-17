@@ -1,0 +1,19 @@
+# Core API SDKs
+anthropic
+openai
+google-genai
+
+# Data + analysis
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Files + I/O
+Pillow
+python-dotenv
+requests
+
+# Notebook environment
+jupyter
+ipykernel
