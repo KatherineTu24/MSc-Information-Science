@@ -10,7 +10,6 @@ scipy
 scikit-learn
 statsmodels
 matplotlib
-seaborn
 
 # Files + I/O
 Pillow
