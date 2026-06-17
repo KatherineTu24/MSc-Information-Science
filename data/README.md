@@ -2,7 +2,7 @@
 
 ## `ground_truth.json`
 
-A JSON array of 91 entries, one per movement in the DCML Beethoven Piano Sonatas corpus. Each entry has the following schema:
+A JSON array of 90 entries, one per movement in the DCML Beethoven Piano Sonatas corpus. Each entry has the following schema:
 
 ```json
 {
@@ -29,7 +29,7 @@ A JSON array of 91 entries, one per movement in the DCML Beethoven Piano Sonatas
 
 ### Movements with annotated key signature
 
-Of the 91 movements, **63** have an annotated `globalkey` in the DCML harmonies files and are therefore used for the key signature task. All 91 are used for the time signature task. (Note: an earlier draft used 90 time-signature movements before the 10-2 correction described below — sometimes you may still see 90 in older intermediate outputs.)
+Of the 90 movements, **63** have an annotated `globalkey` in the DCML harmonies files and are therefore used for the key signature task. All 90 are used for the time signature task. (Note: an earlier draft used 90 time-signature movements before the 10-2 correction described below — sometimes you may still see 90 in older intermediate outputs.)
 
 ## `srq2_manual_coding.csv`
 

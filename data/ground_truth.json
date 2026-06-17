@@ -77,17 +77,6 @@
     }
   },
   {
-    "movement_id": "02-4",
-    "pdf_file": "02-4.pdf",
-    "png_file": "02-4.png",
-    "time_signature": "4/4",
-    "key_signature": "A",
-    "highest_pitch_bar1": {
-      "tpc": "4",
-      "midi": 88
-    }
-  },
-  {
     "movement_id": "03-1",
     "pdf_file": "03-1.pdf",
     "png_file": "03-1.png",
