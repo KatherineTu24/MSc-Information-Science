@@ -5,7 +5,10 @@ google-genai
 
 # Data + analysis
 pandas
+numpy
+scipy
 scikit-learn
+statsmodels
 matplotlib
 seaborn
 
