@@ -1,0 +1,1003 @@
+[
+  {
+    "movement_id": "01-1",
+    "pdf_file": "01-1.pdf",
+    "png_file": "01-1.png",
+    "time_signature": "2/2",
+    "key_signature": "f",
+    "highest_pitch_bar1": {
+      "tpc": "0",
+      "midi": 60
+    }
+  },
+  {
+    "movement_id": "01-2",
+    "pdf_file": "01-2.pdf",
+    "png_file": "01-2.png",
+    "time_signature": "3/4",
+    "key_signature": "F",
+    "highest_pitch_bar1": {
+      "tpc": "0",
+      "midi": 60
+    }
+  },
+  {
+    "movement_id": "01-3",
+    "pdf_file": "01-3.pdf",
+    "png_file": "01-3.png",
+    "time_signature": "3/4",
+    "key_signature": "f",
+    "highest_pitch_bar1": {
+      "tpc": "-4",
+      "midi": 68
+    }
+  },
+  {
+    "movement_id": "01-4",
+    "pdf_file": "01-4.pdf",
+    "png_file": "01-4.png",
+    "time_signature": "2/2",
+    "key_signature": "f",
+    "highest_pitch_bar1": {
+      "tpc": "0",
+      "midi": 60
+    }
+  },
+  {
+    "movement_id": "02-1",
+    "pdf_file": "02-1.pdf",
+    "png_file": "02-1.png",
+    "time_signature": "2/4",
+    "key_signature": "A",
+    "highest_pitch_bar1": {
+      "tpc": "3",
+      "midi": 81
+    }
+  },
+  {
+    "movement_id": "02-2",
+    "pdf_file": "02-2.pdf",
+    "png_file": "02-2.png",
+    "time_signature": "3/4",
+    "key_signature": "D",
+    "highest_pitch_bar1": {
+      "tpc": "6",
+      "midi": 66
+    }
+  },
+  {
+    "movement_id": "02-3",
+    "pdf_file": "02-3.pdf",
+    "png_file": "02-3.png",
+    "time_signature": "3/4",
+    "key_signature": "A",
+    "highest_pitch_bar1": {
+      "tpc": "7",
+      "midi": 85
+    }
+  },
+  {
+    "movement_id": "02-4",
+    "pdf_file": "02-4.pdf",
+    "png_file": "02-4.png",
+    "time_signature": "4/4",
+    "key_signature": "A",
+    "highest_pitch_bar1": {
+      "tpc": "4",
+      "midi": 88
+    }
+  },
+  {
+    "movement_id": "03-1",
+    "pdf_file": "03-1.pdf",
+    "png_file": "03-1.png",
+    "time_signature": "4/4",
+    "key_signature": "C",
+    "highest_pitch_bar1": {
+      "tpc": "-1",
+      "midi": 65
+    }
+  },
+  {
+    "movement_id": "03-2",
+    "pdf_file": "03-2.pdf",
+    "png_file": "03-2.png",
+    "time_signature": "2/4",
+    "key_signature": "E",
+    "highest_pitch_bar1": {
+      "tpc": "3",
+      "midi": 69
+    }
+  },
+  {
+    "movement_id": "03-3",
+    "pdf_file": "03-3.pdf",
+    "png_file": "03-3.png",
+    "time_signature": "3/4",
+    "key_signature": "C",
+    "highest_pitch_bar1": {
+      "tpc": "1",
+      "midi": 79
+    }
+  },
+  {
+    "movement_id": "03-4",
+    "pdf_file": "03-4.pdf",
+    "png_file": "03-4.png",
+    "time_signature": "6/8",
+    "key_signature": "C",
+    "highest_pitch_bar1": {
+      "tpc": "1",
+      "midi": 67
+    }
+  },
+  {
+    "movement_id": "04-1",
+    "pdf_file": "04-1.pdf",
+    "png_file": "04-1.png",
+    "time_signature": "6/8",
+    "key_signature": null,
+    "highest_pitch_bar1": {
+      "tpc": "1",
+      "midi": 67
+    }
+  },
+  {
+    "movement_id": "04-2",
+    "pdf_file": "04-2.pdf",
+    "png_file": "04-2.png",
+    "time_signature": "3/4",
+    "key_signature": null,
+    "highest_pitch_bar1": {
+      "tpc": "-1",
+      "midi": 65
+    }
+  },
+  {
+    "movement_id": "04-3",
+    "pdf_file": "04-3.pdf",
+    "png_file": "04-3.png",
+    "time_signature": "3/4",
+    "key_signature": null,
+    "highest_pitch_bar1": {
+      "tpc": "-2",
+      "midi": 70
+    }
+  },
+  {
+    "movement_id": "04-4",
+    "pdf_file": "04-4.pdf",
+    "png_file": "04-4.png",
+    "time_signature": "2/4",
+    "key_signature": null,
+    "highest_pitch_bar1": {
+      "tpc": "-1",
+      "midi": 77
+    }
+  },
+  {
+    "movement_id": "05-1",
+    "pdf_file": "05-1.pdf",
+    "png_file": "05-1.png",
+    "time_signature": "3/4",
+    "key_signature": "c",
+    "highest_pitch_bar1": {
+      "tpc": "-3",
+      "midi": 75
+    }
+  },
+  {
+    "movement_id": "05-2",
+    "pdf_file": "05-2.pdf",
+    "png_file": "05-2.png",
+    "time_signature": "2/4",
+    "key_signature": "Ab",
+    "highest_pitch_bar1": {
+      "tpc": "0",
+      "midi": 72
+    }
+  },
+  {
+    "movement_id": "05-3",
+    "pdf_file": "05-3.pdf",
+    "png_file": "05-3.png",
+    "time_signature": "4/4",
+    "key_signature": "c",
+    "highest_pitch_bar1": {
+      "tpc": "-1",
+      "midi": 65
+    }
+  },
+  {
+    "movement_id": "06-1",
+    "pdf_file": "06-1.pdf",
+    "png_file": "06-1.png",
+    "time_signature": "2/4",
+    "key_signature": "F",
+    "highest_pitch_bar1": {
+      "tpc": "3",
+      "midi": 69
+    }
+  },
+  {
+    "movement_id": "06-2",
+    "pdf_file": "06-2.pdf",
+    "png_file": "06-2.png",
+    "time_signature": "3/4",
+    "key_signature": "f",
+    "highest_pitch_bar1": {
+      "tpc": "0",
+      "midi": 48
+    }
+  },
+  {
+    "movement_id": "06-3",
+    "pdf_file": "06-3.pdf",
+    "png_file": "06-3.png",
+    "time_signature": "2/4",
+    "key_signature": "F",
+    "highest_pitch_bar1": {
+      "tpc": "0",
+      "midi": 48
+    }
+  },
+  {
+    "movement_id": "07-1",
+    "pdf_file": "07-1.pdf",
+    "png_file": "07-1.png",
+    "time_signature": "4/4",
+    "key_signature": "D",
+    "highest_pitch_bar1": {
+      "tpc": "2",
+      "midi": 62
+    }
+  },
+  {
+    "movement_id": "07-2",
+    "pdf_file": "07-2.pdf",
+    "png_file": "07-2.png",
+    "time_signature": "6/8",
+    "key_signature": "d",
+    "highest_pitch_bar1": {
+      "tpc": "-1",
+      "midi": 65
+    }
+  },
+  {
+    "movement_id": "07-3",
+    "pdf_file": "07-3.pdf",
+    "png_file": "07-3.png",
+    "time_signature": "3/4",
+    "key_signature": "D",
+    "highest_pitch_bar1": {
+      "tpc": "3",
+      "midi": 69
+    }
+  },
+  {
+    "movement_id": "07-4",
+    "pdf_file": "07-4.pdf",
+    "png_file": "07-4.png",
+    "time_signature": "4/4",
+    "key_signature": "D",
+    "highest_pitch_bar1": {
+      "tpc": "6",
+      "midi": 66
+    }
+  },
+  {
+    "movement_id": "08-1",
+    "pdf_file": "08-1.pdf",
+    "png_file": "08-1.png",
+    "time_signature": "4/4",
+    "key_signature": "c",
+    "highest_pitch_bar1": {
+      "tpc": "-3",
+      "midi": 63
+    }
+  },
+  {
+    "movement_id": "08-2",
+    "pdf_file": "08-2.pdf",
+    "png_file": "08-2.png",
+    "time_signature": "2/4",
+    "key_signature": "Ab",
+    "highest_pitch_bar1": {
+      "tpc": "0",
+      "midi": 60
+    }
+  },
+  {
+    "movement_id": "08-3",
+    "pdf_file": "08-3.pdf",
+    "png_file": "08-3.png",
+    "time_signature": "2/2",
+    "key_signature": "c",
+    "highest_pitch_bar1": {
+      "tpc": "2",
+      "midi": 74
+    }
+  },
+  {
+    "movement_id": "09-1",
+    "pdf_file": "09-1.pdf",
+    "png_file": "09-1.png",
+    "time_signature": "4/4",
+    "key_signature": "E",
+    "highest_pitch_bar1": {
+      "tpc": "4",
+      "midi": 76
+    }
+  },
+  {
+    "movement_id": "09-2",
+    "pdf_file": "09-2.pdf",
+    "png_file": "09-2.png",
+    "time_signature": "3/4",
+    "key_signature": "e",
+    "highest_pitch_bar1": {
+      "tpc": "4",
+      "midi": 64
+    }
+  },
+  {
+    "movement_id": "09-3",
+    "pdf_file": "09-3.pdf",
+    "png_file": "09-3.png",
+    "time_signature": "2/2",
+    "key_signature": "E",
+    "highest_pitch_bar1": {
+      "tpc": "9",
+      "midi": 75
+    }
+  },
+  {
+    "movement_id": "10-1",
+    "pdf_file": "10-1.pdf",
+    "png_file": "10-1.png",
+    "time_signature": "2/4",
+    "key_signature": "G",
+    "highest_pitch_bar1": {
+      "tpc": "2",
+      "midi": 74
+    }
+  },
+  {
+    "movement_id": "10-2",
+    "pdf_file": "10-2.pdf",
+    "png_file": "10-2.png",
+    "time_signature": "2/2",
+    "key_signature": "C",
+    "highest_pitch_bar1": {
+      "tpc": "1",
+      "midi": 55
+    }
+  },
+  {
+    "movement_id": "10-3",
+    "pdf_file": "10-3.pdf",
+    "png_file": "10-3.png",
+    "time_signature": "3/8",
+    "key_signature": "G",
+    "highest_pitch_bar1": {
+      "tpc": "0",
+      "midi": 60
+    }
+  },
+  {
+    "movement_id": "11-1",
+    "pdf_file": "11-1.pdf",
+    "png_file": "11-1.png",
+    "time_signature": "4/4",
+    "key_signature": null,
+    "highest_pitch_bar1": {
+      "tpc": "2",
+      "midi": 62
+    }
+  },
+  {
+    "movement_id": "11-2",
+    "pdf_file": "11-2.pdf",
+    "png_file": "11-2.png",
+    "time_signature": "9/8",
+    "key_signature": null,
+    "highest_pitch_bar1": {
+      "tpc": "-4",
+      "midi": 68
+    }
+  },
+  {
+    "movement_id": "11-3",
+    "pdf_file": "11-3.pdf",
+    "png_file": "11-3.png",
+    "time_signature": "3/4",
+    "key_signature": null,
+    "highest_pitch_bar1": {
+      "tpc": "-3",
+      "midi": 63
+    }
+  },
+  {
+    "movement_id": "11-4",
+    "pdf_file": "11-4.pdf",
+    "png_file": "11-4.png",
+    "time_signature": "2/4",
+    "key_signature": null,
+    "highest_pitch_bar1": {
+      "tpc": "1",
+      "midi": 79
+    }
+  },
+  {
+    "movement_id": "12-1",
+    "pdf_file": "12-1.pdf",
+    "png_file": "12-1.png",
+    "time_signature": "3/8",
+    "key_signature": null,
+    "highest_pitch_bar1": {
+      "tpc": "-3",
+      "midi": 63
+    }
+  },
+  {
+    "movement_id": "12-2",
+    "pdf_file": "12-2.pdf",
+    "png_file": "12-2.png",
+    "time_signature": "3/4",
+    "key_signature": null,
+    "highest_pitch_bar1": {
+      "tpc": "-2",
+      "midi": 70
+    }
+  },
+  {
+    "movement_id": "12-3",
+    "pdf_file": "12-3.pdf",
+    "png_file": "12-3.png",
+    "time_signature": "4/4",
+    "key_signature": null,
+    "highest_pitch_bar1": {
+      "tpc": "-3",
+      "midi": 63
+    }
+  },
+  {
+    "movement_id": "12-4",
+    "pdf_file": "12-4.pdf",
+    "png_file": "12-4.png",
+    "time_signature": "2/4",
+    "key_signature": null,
+    "highest_pitch_bar1": {
+      "tpc": "-1",
+      "midi": 77
+    }
+  },
+  {
+    "movement_id": "13-1",
+    "pdf_file": "13-1.pdf",
+    "png_file": "13-1.png",
+    "time_signature": "2/2",
+    "key_signature": null,
+    "highest_pitch_bar1": {
+      "tpc": "-2",
+      "midi": 70
+    }
+  },
+  {
+    "movement_id": "13-2",
+    "pdf_file": "13-2.pdf",
+    "png_file": "13-2.png",
+    "time_signature": "3/4",
+    "key_signature": null,
+    "highest_pitch_bar1": {
+      "tpc": "1",
+      "midi": 55
+    }
+  },
+  {
+    "movement_id": "13-3",
+    "pdf_file": "13-3.pdf",
+    "png_file": "13-3.png",
+    "time_signature": "3/4",
+    "key_signature": null,
+    "highest_pitch_bar1": {
+      "tpc": "0",
+      "midi": 60
+    }
+  },
+  {
+    "movement_id": "13-4",
+    "pdf_file": "13-4.pdf",
+    "png_file": "13-4.png",
+    "time_signature": "2/4",
+    "key_signature": null,
+    "highest_pitch_bar1": {
+      "tpc": "-2",
+      "midi": 46
+    }
+  },
+  {
+    "movement_id": "14-1",
+    "pdf_file": "14-1.pdf",
+    "png_file": "14-1.png",
+    "time_signature": "2/2",
+    "key_signature": null,
+    "highest_pitch_bar1": {
+      "tpc": "4",
+      "midi": 64
+    }
+  },
+  {
+    "movement_id": "14-2",
+    "pdf_file": "14-2.pdf",
+    "png_file": "14-2.png",
+    "time_signature": "3/4",
+    "key_signature": null,
+    "highest_pitch_bar1": {
+      "tpc": "-5",
+      "midi": 73
+    }
+  },
+  {
+    "movement_id": "14-3",
+    "pdf_file": "14-3.pdf",
+    "png_file": "14-3.png",
+    "time_signature": "4/4",
+    "key_signature": null,
+    "highest_pitch_bar1": {
+      "tpc": "4",
+      "midi": 64
+    }
+  },
+  {
+    "movement_id": "15-1",
+    "pdf_file": "15-1.pdf",
+    "png_file": "15-1.png",
+    "time_signature": "3/4",
+    "key_signature": null,
+    "highest_pitch_bar1": {
+      "tpc": "2",
+      "midi": 38
+    }
+  },
+  {
+    "movement_id": "15-2",
+    "pdf_file": "15-2.pdf",
+    "png_file": "15-2.png",
+    "time_signature": "2/4",
+    "key_signature": null,
+    "highest_pitch_bar1": {
+      "tpc": "3",
+      "midi": 69
+    }
+  },
+  {
+    "movement_id": "15-3",
+    "pdf_file": "15-3.pdf",
+    "png_file": "15-3.png",
+    "time_signature": "3/4",
+    "key_signature": null,
+    "highest_pitch_bar1": {
+      "tpc": "6",
+      "midi": 78
+    }
+  },
+  {
+    "movement_id": "15-4",
+    "pdf_file": "15-4.pdf",
+    "png_file": "15-4.png",
+    "time_signature": "6/8",
+    "key_signature": null,
+    "highest_pitch_bar1": {
+      "tpc": "3",
+      "midi": 45
+    }
+  },
+  {
+    "movement_id": "16-1",
+    "pdf_file": "16-1.pdf",
+    "png_file": "16-1.png",
+    "time_signature": "2/4",
+    "key_signature": "G",
+    "highest_pitch_bar1": {
+      "tpc": "1",
+      "midi": 79
+    }
+  },
+  {
+    "movement_id": "16-2",
+    "pdf_file": "16-2.pdf",
+    "png_file": "16-2.png",
+    "time_signature": "9/8",
+    "key_signature": "C",
+    "highest_pitch_bar1": {
+      "tpc": "4",
+      "midi": 76
+    }
+  },
+  {
+    "movement_id": "16-3",
+    "pdf_file": "16-3.pdf",
+    "png_file": "16-3.png",
+    "time_signature": "2/2",
+    "key_signature": "G",
+    "highest_pitch_bar1": {
+      "tpc": "4",
+      "midi": 76
+    }
+  },
+  {
+    "movement_id": "17-1",
+    "pdf_file": "17-1.pdf",
+    "png_file": "17-1.png",
+    "time_signature": "4/4",
+    "key_signature": "d",
+    "highest_pitch_bar1": {
+      "tpc": "4",
+      "midi": 64
+    }
+  },
+  {
+    "movement_id": "17-2",
+    "pdf_file": "17-2.pdf",
+    "png_file": "17-2.png",
+    "time_signature": "3/4",
+    "key_signature": "Bb",
+    "highest_pitch_bar1": {
+      "tpc": "-2",
+      "midi": 58
+    }
+  },
+  {
+    "movement_id": "17-3",
+    "pdf_file": "17-3.pdf",
+    "png_file": "17-3.png",
+    "time_signature": "3/8",
+    "key_signature": "d",
+    "highest_pitch_bar1": {
+      "tpc": "-1",
+      "midi": 77
+    }
+  },
+  {
+    "movement_id": "18-1",
+    "pdf_file": "18-1.pdf",
+    "png_file": "18-1.png",
+    "time_signature": "3/4",
+    "key_signature": "Eb",
+    "highest_pitch_bar1": {
+      "tpc": "0",
+      "midi": 72
+    }
+  },
+  {
+    "movement_id": "18-2",
+    "pdf_file": "18-2.pdf",
+    "png_file": "18-2.png",
+    "time_signature": "2/4",
+    "key_signature": "Ab",
+    "highest_pitch_bar1": {
+      "tpc": "-5",
+      "midi": 61
+    }
+  },
+  {
+    "movement_id": "18-3",
+    "pdf_file": "18-3.pdf",
+    "png_file": "18-3.png",
+    "time_signature": "3/4",
+    "key_signature": "Eb",
+    "highest_pitch_bar1": {
+      "tpc": "-3",
+      "midi": 63
+    }
+  },
+  {
+    "movement_id": "18-4",
+    "pdf_file": "18-4.pdf",
+    "png_file": "18-4.png",
+    "time_signature": "6/8",
+    "key_signature": "Eb",
+    "highest_pitch_bar1": {
+      "tpc": "1",
+      "midi": 55
+    }
+  },
+  {
+    "movement_id": "19-1",
+    "pdf_file": "19-1.pdf",
+    "png_file": "19-1.png",
+    "time_signature": "2/4",
+    "key_signature": "g",
+    "highest_pitch_bar1": {
+      "tpc": "2",
+      "midi": 62
+    }
+  },
+  {
+    "movement_id": "19-2",
+    "pdf_file": "19-2.pdf",
+    "png_file": "19-2.png",
+    "time_signature": "6/8",
+    "key_signature": "G",
+    "highest_pitch_bar1": {
+      "tpc": "3",
+      "midi": 69
+    }
+  },
+  {
+    "movement_id": "20-1",
+    "pdf_file": "20-1.pdf",
+    "png_file": "20-1.png",
+    "time_signature": "2/2",
+    "key_signature": "G",
+    "highest_pitch_bar1": {
+      "tpc": "2",
+      "midi": 74
+    }
+  },
+  {
+    "movement_id": "20-2",
+    "pdf_file": "20-2.pdf",
+    "png_file": "20-2.png",
+    "time_signature": "3/4",
+    "key_signature": "G",
+    "highest_pitch_bar1": {
+      "tpc": "1",
+      "midi": 67
+    }
+  },
+  {
+    "movement_id": "21-1",
+    "pdf_file": "21-1.pdf",
+    "png_file": "21-1.png",
+    "time_signature": "4/4",
+    "key_signature": "C",
+    "highest_pitch_bar1": {
+      "tpc": "4",
+      "midi": 52
+    }
+  },
+  {
+    "movement_id": "21-2",
+    "pdf_file": "21-2.pdf",
+    "png_file": "21-2.png",
+    "time_signature": "6/8",
+    "key_signature": "F",
+    "highest_pitch_bar1": {
+      "tpc": "9",
+      "midi": 63
+    }
+  },
+  {
+    "movement_id": "21-3",
+    "pdf_file": "21-3.pdf",
+    "png_file": "21-3.png",
+    "time_signature": "2/4",
+    "key_signature": "C",
+    "highest_pitch_bar1": {
+      "tpc": "1",
+      "midi": 79
+    }
+  },
+  {
+    "movement_id": "23-1",
+    "pdf_file": "23-1.pdf",
+    "png_file": "23-1.png",
+    "time_signature": "12/8",
+    "key_signature": "f",
+    "highest_pitch_bar1": {
+      "tpc": "0",
+      "midi": 60
+    }
+  },
+  {
+    "movement_id": "23-2",
+    "pdf_file": "23-2.pdf",
+    "png_file": "23-2.png",
+    "time_signature": "2/4",
+    "key_signature": "Db",
+    "highest_pitch_bar1": {
+      "tpc": "-2",
+      "midi": 58
+    }
+  },
+  {
+    "movement_id": "23-3",
+    "pdf_file": "23-3.pdf",
+    "png_file": "23-3.png",
+    "time_signature": "2/4",
+    "key_signature": "f",
+    "highest_pitch_bar1": {
+      "tpc": "-5",
+      "midi": 73
+    }
+  },
+  {
+    "movement_id": "24-1",
+    "pdf_file": "24-1.pdf",
+    "png_file": "24-1.png",
+    "time_signature": "2/4",
+    "key_signature": "F#",
+    "highest_pitch_bar1": {
+      "tpc": "8",
+      "midi": 68
+    }
+  },
+  {
+    "movement_id": "24-2",
+    "pdf_file": "24-2.pdf",
+    "png_file": "24-2.png",
+    "time_signature": "2/4",
+    "key_signature": "F#",
+    "highest_pitch_bar1": {
+      "tpc": "7",
+      "midi": 73
+    }
+  },
+  {
+    "movement_id": "26-1",
+    "pdf_file": "26-1.pdf",
+    "png_file": "26-1.png",
+    "time_signature": "2/4",
+    "key_signature": "Eb",
+    "highest_pitch_bar1": {
+      "tpc": "1",
+      "midi": 67
+    }
+  },
+  {
+    "movement_id": "26-2",
+    "pdf_file": "26-2.pdf",
+    "png_file": "26-2.png",
+    "time_signature": "2/4",
+    "key_signature": "Eb",
+    "highest_pitch_bar1": {
+      "tpc": "3",
+      "midi": 69
+    }
+  },
+  {
+    "movement_id": "26-3",
+    "pdf_file": "26-3.pdf",
+    "png_file": "26-3.png",
+    "time_signature": "6/8",
+    "key_signature": "Eb",
+    "highest_pitch_bar1": {
+      "tpc": "-4",
+      "midi": 92
+    }
+  },
+  {
+    "movement_id": "29-1",
+    "pdf_file": "29-1.pdf",
+    "png_file": "29-1.png",
+    "time_signature": "2/2",
+    "key_signature": null,
+    "highest_pitch_bar1": {
+      "tpc": "-2",
+      "midi": 34
+    }
+  },
+  {
+    "movement_id": "29-2",
+    "pdf_file": "29-2.pdf",
+    "png_file": "29-2.png",
+    "time_signature": "3/4",
+    "key_signature": null,
+    "highest_pitch_bar1": {
+      "tpc": "-1",
+      "midi": 77
+    }
+  },
+  {
+    "movement_id": "29-3",
+    "pdf_file": "29-3.pdf",
+    "png_file": "29-3.png",
+    "time_signature": "6/8",
+    "key_signature": null,
+    "highest_pitch_bar1": {
+      "tpc": "7",
+      "midi": 61
+    }
+  },
+  {
+    "movement_id": "29-4",
+    "pdf_file": "29-4.pdf",
+    "png_file": "29-4.png",
+    "time_signature": "4/4",
+    "key_signature": null,
+    "highest_pitch_bar1": {
+      "tpc": "-6",
+      "midi": 90
+    }
+  },
+  {
+    "movement_id": "30-1",
+    "pdf_file": "30-1.pdf",
+    "png_file": "30-1.png",
+    "time_signature": "2/4",
+    "key_signature": "E",
+    "highest_pitch_bar1": {
+      "tpc": "5",
+      "midi": 71
+    }
+  },
+  {
+    "movement_id": "30-2",
+    "pdf_file": "30-2.pdf",
+    "png_file": "30-2.png",
+    "time_signature": "6/8",
+    "key_signature": "e",
+    "highest_pitch_bar1": {
+      "tpc": "5",
+      "midi": 71
+    }
+  },
+  {
+    "movement_id": "30-3",
+    "pdf_file": "30-3.pdf",
+    "png_file": "30-3.png",
+    "time_signature": "3/4",
+    "key_signature": "E",
+    "highest_pitch_bar1": {
+      "tpc": "8",
+      "midi": 68
+    }
+  },
+  {
+    "movement_id": "31-1",
+    "pdf_file": "31-1.pdf",
+    "png_file": "31-1.png",
+    "time_signature": "3/4",
+    "key_signature": "Ab",
+    "highest_pitch_bar1": {
+      "tpc": "0",
+      "midi": 72
+    }
+  },
+  {
+    "movement_id": "31-2",
+    "pdf_file": "31-2.pdf",
+    "png_file": "31-2.png",
+    "time_signature": "2/4",
+    "key_signature": "f",
+    "highest_pitch_bar1": {
+      "tpc": "0",
+      "midi": 72
+    }
+  },
+  {
+    "movement_id": "31-3",
+    "pdf_file": "31-3.pdf",
+    "png_file": "31-3.png",
+    "time_signature": "4/4",
+    "key_signature": "Ab",
+    "highest_pitch_bar1": {
+      "tpc": "-4",
+      "midi": 80
+    }
+  },
+  {
+    "movement_id": "32-1",
+    "pdf_file": "32-1.pdf",
+    "png_file": "32-1.png",
+    "time_signature": "4/4",
+    "key_signature": "c",
+    "highest_pitch_bar1": {
+      "tpc": "-3",
+      "midi": 63
+    }
+  },
+  {
+    "movement_id": "32-2",
+    "pdf_file": "32-2.pdf",
+    "png_file": "32-2.png",
+    "time_signature": "9/16",
+    "key_signature": "C",
+    "highest_pitch_bar1": {
+      "tpc": "0",
+      "midi": 72
+    }
+  }
+]
