@@ -28,7 +28,7 @@ Two tasks are evaluated:
 │   └── archive/                          # earlier notebook versions kept for provenance
 │
 ├── data/
-│   ├── ground_truth.json                 # 91 movements, key/time signatures, highest pitch bar 1
+│   ├── ground_truth.json                 # 90 movements, key/time signatures, highest pitch bar 1
 │   ├── srq2_manual_coding.csv            # manual coding of SRQ2 wrong-answer reasoning
 │   ├── README.md                         # ground truth schema + 10-2 correction note
 │   └── corpus_info.md                    # how to obtain the DCML Beethoven corpus
