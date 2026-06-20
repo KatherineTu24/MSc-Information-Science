@@ -9,8 +9,8 @@ This repository contains the full evaluation pipeline for benchmarking three mul
 The benchmark is structured around three sub-research questions (SRQs):
 
 - **SRQ1** — How accurately do MLLMs identify key and time signatures from piano scores in a zero-shot setting? (PDF input)
-- **SRQ2** — Does chain-of-thought (CoT) prompting improve accuracy, and what does the reasoning reveal about how each model fails? (PDF input, CoT prompt, manual A/B/C reasoning coding)
-- **SRQ3** — Does the input format (PDF vs PNG) affect accuracy? (zero-shot prompt across both formats)
+- **SRQ2** — Do chain-of-thought (CoT) and role-priming prompting strategies improve accuracy, and what does the reasoning reveal about how each model fails? (PDF input, CoT prompt, zero-shot+role-priming prompt, manual A/B/C reasoning coding)
+- **SRQ3** — Does the input format (PDF vs PNG) affect accuracy? (zero-shot+role-priming prompt across both formats)
 
 Two tasks are evaluated:
 - **Key signature identification** (movements with annotated `globalkey` in the corpus)
@@ -88,7 +88,7 @@ The repository ships with the raw result JSONLs in `results/`, so you can run al
 
 Ground truth is extracted from the **DCML Beethoven Piano Sonatas** corpus (see [`data/corpus_info.md`](data/corpus_info.md)). The repository contains:
 
-- The processed `ground_truth.json` (91 movements, with one manual correction documented in [`data/README.md`](data/README.md))
+- The processed `ground_truth.json` (90 movements, with one manual correction documented in [`data/README.md`](data/README.md))
 - The SRQ2 manual coding sheet covering all wrong-answer cases
 
 The corpus PDFs and PNGs themselves are not redistributed here.
